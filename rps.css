@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333333;
+  }
+  
+  .choices {
+    margin-top: 20px;
+  }
+  
+  .choice {
+    display: inline-block;
+    margin: 0 10px;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  .result {
+    margin-top: 20px;
+    font-weight: bold;
+  }
